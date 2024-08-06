@@ -1,4 +1,4 @@
-import './style.css';
+import './css/style.css';
 console.log('test');
 
 //import the different page modules
